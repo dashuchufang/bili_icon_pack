@@ -1,2 +1,2 @@
 # bili_icon_pack
-direct from bilibili
+direct extracted from bilibili webpage
